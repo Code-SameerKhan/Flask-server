@@ -15,7 +15,7 @@ It has no database abstraction layer, form validation, or any other components w
 
 * Due to the nature of the website, a database handling system is greatly appreciated. This is achieved with the help of SQL Alchemy. In order to work to store data i.e, user email, passwords and also the posts the made by user, SQL Alchemy performs the task with the integeration with python-flask.
 
-* The layout is developed using html and css static codes combined with bootstrap classes to give a appeasing look nad be more user friendly.
+* The layout is developed using html and css static codes combined with bootstrap classes to give a appeasing look and be more user friendly.
 
 ![](Visuals/home.png)
 
@@ -50,6 +50,9 @@ This enables the database to store the hashed passwords instead of the password 
 Also the blog contains a user's own profile page where they can see the list of posts especially made by them.
 Updating of profile picture as well as saving it in database is done but only after reshaping it into a smaller size which done with the help of 'PIL' library of python.
 
+The 'Forget Password' link helps in giving a user the flexibility to gain access to the account even if the password is not remembered by the user.
+It sends an email containing Password reset link ('_external')
+ 
 # Employing the usage of Blueprints
 
 The app developed contains various extentions and libraries which help in running the python script in the form if a package. Flask's official documentation promotes the 
