@@ -55,8 +55,8 @@ It sends an email containing Password reset link ('_external')
  
 # Employing the usage of Blueprints
 
-The app developed contains various extentions and libraries which help in running the python script in the form if a package. Flask's official documentation promotes the 
-usage of bluprints in order to have the same extentions run different application. This allows us to employ the services of Classes in python and take benefit of its
+The app developed contains various extensions and libraries which help in running the python script in the form if a package. Flask's official documentation promotes the 
+usage of blueprints in order to have the same extensions run different application. This allows us to employ the services of Classes in python and take benefit of its
 Object Oriented Programming services and the concept of inheritance.
 
 ![](Visuals/text_editor.png)
