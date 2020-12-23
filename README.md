@@ -18,3 +18,9 @@ It has no database abstraction layer, form validation, or any other components w
 * The layout is developed using html and css static codes combined with bootstrap classes to give a appeasing look nad be more user friendly.
 
 ![](Visuals/home.png)
+
+FlasK helps in easily making a deployable web app by just executing a single python script but is is impoertant to maintain a heirarchy in structure in order for future updates.
+
+# Pages that are user defined
+
+![](Visuals/register.png)
