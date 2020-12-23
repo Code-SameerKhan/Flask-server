@@ -12,3 +12,6 @@ It has no database abstraction layer, form validation, or any other components w
 * To have a functionality of sending a password reset request in case a user forgets its password.
 
 # Layouts and Requirements
+
+Due to the nature of the website, a database handling system is greatly appreciated. This is achieved with the help of SQL Alchemy.
+In order to work 
