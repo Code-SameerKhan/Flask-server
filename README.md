@@ -21,6 +21,13 @@ It has no database abstraction layer, form validation, or any other components w
 
 FlasK helps in easily making a deployable web app by just executing a single python script but is is impoertant to maintain a heirarchy in structure in order for future updates.
 
+# Custom error handling
+Custom error templates are created to handle error such as 404, 403, 500 which extended of our base layout.html file containing the structure of visual layout which is
+inherited everywhere.
+
+![](Visuals/error.png)
+
+
 # Pages that are user defined
 
 ![](Visuals/register.png)
