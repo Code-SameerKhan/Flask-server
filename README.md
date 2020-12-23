@@ -13,5 +13,8 @@ It has no database abstraction layer, form validation, or any other components w
 
 # Layouts and Requirements
 
-Due to the nature of the website, a database handling system is greatly appreciated. This is achieved with the help of SQL Alchemy.
-In order to work 
+* Due to the nature of the website, a database handling system is greatly appreciated. This is achieved with the help of SQL Alchemy. In order to work to store data i.e, user email, passwords and also the posts the made by user, SQL Alchemy performs the task with the integeration with python-flask.
+
+* The layout is developed using html and css static codes combined with bootstrap classes to give a appeasing look nad be more user friendly.
+
+![](Visuals/home.png)
