@@ -24,3 +24,29 @@ FlasK helps in easily making a deployable web app by just executing a single pyt
 # Pages that are user defined
 
 ![](Visuals/register.png)
+
+It consists of-
+* Registration page
+* Account page
+* New post
+* Login and Logout
+* Forget password
+* Custom error pages
+
+![](Visuals/account.png)
+
+![](Visuals/postedit.png)
+
+The security feature employed in order to protect a user's account consists of bcrypting the password and matching it when a user try's to log in.
+This enables the database to store the hashed passwords instead of the password entered by the user.
+
+Also the blog contains a user's own profile page where they can see the list of posts especially made by them.
+Updating of profile picture as well as saving it in database is done but only after reshaping it into a smaller size which done with the help of 'PIL' library of python.
+
+# Employing the usage of Blueprints
+
+The app developed contains various extentions and libraries which help in running the python script in the form if a package. Flask's official documentation promotes the 
+usage of bluprints in order to have the same extentions run different application. This allows us to employ the services of Classes in python and take benefit of its
+Object Oriented Programming services and the concept of inheritance.
+
+![](Visuals/text_editor.png)
