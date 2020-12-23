@@ -8,7 +8,7 @@ It has no database abstraction layer, form validation, or any other components w
 # Objective
 
 * To build website where a user can make account, make posts and upload photos as a profile picture.
-* To edit or modify posts as weel as delete them also having them in an ordered fashion in a custom profile or account page.
+* To edit or modify posts as well as delete them also having them in an ordered fashion in a custom profile or account page.
 * To have a functionality of sending a password reset request in case a user forgets its password.
 
 # Layouts and Requirements
