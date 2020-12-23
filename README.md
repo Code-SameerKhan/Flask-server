@@ -19,7 +19,7 @@ It has no database abstraction layer, form validation, or any other components w
 
 ![](Visuals/home.png)
 
-FlasK helps in easily making a deployable web app by just executing a single python script but is is impoertant to maintain a heirarchy in structure in order for future updates.
+FlasK helps in easily making a deployable web app by just executing a single python script but it is important to maintain a hierarchy in structure in order for future updates.
 
 # Custom error handling
 Custom error templates are created to handle error such as 404, 403, 500 which extended of our base layout.html file containing the structure of visual layout which is
